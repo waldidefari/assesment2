@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Barang-Id</string>
+    <string name="sell">Jual</string>
+    <string name="quantity">Jumlah Stok:</string>
+    <string name="quantity_req">Jumlah Stok <font color='#FF0000'>*</font></string>
+    <string name="item_name_req">Nama Barang <font color='#FF0000'>*</font></string>
+    <string name="item_price_req">Harga Barang <font color='#FF0000'>*</font></string>
+    <string name="save_action">Simpan</string>
+    <string name="item_detail_fragment_title">Rincian Barang</string>
+    <string name="add_fragment_title">Tambah Barang</string>
+    <string name="edit_fragment_title">Edit Barang</string>
+    <string name="price">Harga</string>
+    <string name="quantity_in_stock">Stok\n Barang</string>
+    <string name="item">Barang</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_question">Anda Yakin Ingin Menghapus Barang?</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Iya</string>
+    <string name="edit_item">Edit Barang</string>
+    <string name="add_new_item">Tambah Barang Baru</string>
+</resources>
